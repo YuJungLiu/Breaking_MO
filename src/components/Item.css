@@ -1,0 +1,12 @@
+.ItemStyle {
+    background-color: '#eee';
+    border-radius: 4;
+    padding: '4px 8px';
+    transition: 'background-color .8s ease-out';
+    margin-top: 8;
+    color: 'whitesmoke';
+    :hover  {
+        background-color: '#fff';
+        transition: 'background-color .1s ease-in'
+    };
+}
